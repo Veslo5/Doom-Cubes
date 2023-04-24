@@ -1,0 +1,20 @@
+episode CUBES01
+{
+	name = "Cubes PB"
+	key = "k"
+}
+
+map CUBES01 "Cubes underground"
+{
+	levelnum = 1
+	next = "CUBES02"
+	sky1 = "SKY1"
+	
+}
+
+map CUBES02 "Cubes first floor"
+{
+	levelnum = 2
+	next = "EndTitle"
+	sky1 = "SKY1"
+}

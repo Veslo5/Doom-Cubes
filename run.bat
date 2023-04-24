@@ -1,0 +1,1 @@
+gzdoom.exe -iwad DOOM2.WAD -file "brutalv21.pk3" "D:\Projects\Doom\project_cubes" +map CUBES01
